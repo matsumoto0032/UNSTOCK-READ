@@ -1,9 +1,9 @@
 # UNSTOCK-READ 
-UNSTOCK/READは
+UNSTOCK/READは積ん読の状態を解消することに特化したwebアプリです。
 
 
 ## Description
-
+読書履歴をタイムラインに投稿する
 
 ## Usage
 
