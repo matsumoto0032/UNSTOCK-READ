@@ -5,8 +5,6 @@ UNSTOCK/READは積ん読の状態を解消することに特化したwebアプ�
 ## Description
 読書履歴をタイムラインに投稿する
 
-## Usage
-
 
 ## Install
 aws cloud9 <br>
